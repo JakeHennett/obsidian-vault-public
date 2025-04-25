@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creamy Tortellini Soup.md",
+                "file": "~ Recipe Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creamy Tortellini Soup"
+              "title": "~ Recipe Template"
             }
           }
         ],
@@ -191,9 +191,9 @@
   },
   "active": "9e62f122893ebc0b",
   "lastOpenFiles": [
-    "Pancakes (Pancake Presents).md",
-    "Title Page.md",
     "Creamy Tortellini Soup.md",
+    "Title Page.md",
+    "Pancakes (Pancake Presents).md",
     "~ Recipe Template.md",
     "Chicken Pot Pie.md",
     "ideas and suggestions.md",
