@@ -1,5 +1,5 @@
-[Recipe Link]()
-[Image Link]()
+Original Recipe: [Recipe Link]()
+Image: [Image Link]()
 
 # Ingredients
 * Ing
