@@ -11,7 +11,7 @@ Optional
 * [Soup]
 * [Dessert]
 * [Breakfast]
-#Soup #Dessert
+#Soup #Dessert #OnePotMeal #Easy #Crockpot 
 ---
 tags:
   - recipe
