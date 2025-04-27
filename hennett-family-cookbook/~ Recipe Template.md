@@ -8,12 +8,4 @@
 # Story
 Optional
 # Tags
-* [Soup]
-* [Dessert]
-* [Breakfast]
 #Soup #Dessert #OnePotMeal #Easy #Crockpot 
----
-tags:
-  - recipe
-  - cooking
----

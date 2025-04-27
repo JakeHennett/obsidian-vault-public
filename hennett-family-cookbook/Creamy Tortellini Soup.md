@@ -25,4 +25,4 @@
 # Story
 Optional
 # Tags
-#Soup 
+#Soup #Easy #OnePotMeal 

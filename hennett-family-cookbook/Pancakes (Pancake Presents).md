@@ -17,3 +17,5 @@
 5. Flip, cook for 1 minute longer
 # Story
 Optional
+# Tags
+#Breakfast 
