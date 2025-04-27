@@ -7,3 +7,7 @@
 1. Step
 # Story
 Optional
+# Tags
+* [Soup]
+* [Dessert]
+* [Breakfast]
