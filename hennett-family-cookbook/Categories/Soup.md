@@ -1,1 +1,3 @@
-[Soup] tags should appear here
+---
+Aliases: [ "#Soup" ]
+---
