@@ -5,7 +5,5 @@
 * Ing
 # Directions
 1. Step
-# Story
-Optional
 # Tags
-#Soup #Dessert #OnePotMeal #Easy #Crockpot 
+#Soup #Dessert #OnePotMeal #Easy #Crockpot #GroundBeef #Chicken #StewBeef #Pasta 

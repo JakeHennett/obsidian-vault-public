@@ -22,7 +22,5 @@
 5. Whisk in the cream or milk and add in the spinach; bring back to a steady boil and cook for 2 to 3 minutes or until smooth and thickened.
 6. Remove from heat and let it rest for 5 minutes. Taste the tortellini soup for salt and pepper and adjust accordingly.
 7. Serve with toasted baguette slices.
-# Story
-Optional
 # Tags
-#Soup #Easy #OnePotMeal 
+#Soup #Easy #OnePotMeal #Pasta

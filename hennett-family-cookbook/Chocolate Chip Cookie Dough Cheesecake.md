@@ -33,5 +33,5 @@
 4. Make the Cheesecake: Using an electric mixer on medium-low speed, beat the cream cheese, sugar, flour and salt until the mixture is creamy and no lumps of cream cheese remain, about 3 minutes. Scrape down the sides of the bowl, add the heavy cream and vanilla and beat to combine. Beat in the eggs and yolk one at a time, beating for about 15 seconds before adding the next. Using a rubber spatula, mix a few times by hand to ensure that all of the ingredients are evenly incorporated. Fold in the balls of chocolate chip cookie dough and the mini chocolate chips.
 5. Pour the filling into the chilled crust and spread into an even layer. Place the pan on a foil-lined rimmed baking sheet. Bake until the outer couple inches of cheesecake looks puffed and set, but the center still jiggles when you move the pan, about 45 to 60 minutes. Turn off the oven, crack open the door and leave the cheesecake inside for 1 hour.
 6. After an hour, remove the cheesecake from the oven, place on a wire cooling rack and run a thin knife around the edge of the cake. Allow to cool completely to room temperature. Once the cheesecake has cooled to room temperature, refrigerate for at least 4 hours, preferably overnight. Remove from the refrigerator 30 minutes prior to serving, unmold the cheesecake and place it on a serving platter. Leftover cheesecake can be stored in the refrigerator for up to 1 week.
-# Story
-Optional
+# Tags
+#Dessert 

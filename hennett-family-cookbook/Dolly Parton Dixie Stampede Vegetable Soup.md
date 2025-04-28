@@ -18,8 +18,5 @@
 4. Transfer to Ninja blender. Puree until no lumps or vegetable pieces remain. Pour back into the pot.
 5. Add half-and-half. Simmer until desired consistency. Stir constantly - do NOT bring to boil.
 6. Garnish with chopped parsley and serve.
-
-# Story
-Optional
 # Tags
 #Soup #Easy #OnePotMeal 
