@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d910d4196e3add5e",
+  "active": "db29b3644155bf3e",
   "lastOpenFiles": [
     "~ Recipe Template.md",
     "TikTok Creamy Chicken Noodle Soup with Potatoes.md",
