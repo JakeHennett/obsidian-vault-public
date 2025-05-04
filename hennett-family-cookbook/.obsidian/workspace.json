@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TikTok Creamy Chicken Noodle Soup with Potatoes.md",
+                "file": "TikTok White Chicken Chili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TikTok Creamy Chicken Noodle Soup with Potatoes"
+              "title": "TikTok White Chicken Chili"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,9 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db29b3644155bf3e",
+  "active": "d910d4196e3add5e",
   "lastOpenFiles": [
     "~ Recipe Template.md",
+    "TikTok White Chicken Chili.md",
     "TikTok Creamy Chicken Noodle Soup with Potatoes.md",
     "Pancakes (Pancake Presents).md",
     "TikTok Ravioli Lasagna.md",
