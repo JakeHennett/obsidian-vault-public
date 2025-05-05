@@ -39,5 +39,23 @@
 **
 # Directions
 1. Step
+2. **
+
+3. Steps
+    
+4. Add chicken to crock pot.
+    
+5. Add diced onion, minced garlic, drained and rinsed great northern beans, green chilis, corn, chili powder, cumin, salt, and pepper.
+    
+6. Top with chicken broth and cream of chicken. Stir.
+    
+7. Cook on high for 3-4 hours.
+    
+8. Remove chicken and shred.
+    
+9. Return chicken to slow cooker. Add diced cream cheese, heavy cream, and shredded cheese
+    
+
+**
 # Tags
 #Soup #Dessert #OnePotMeal #Easy #Crockpot #GroundBeef #Chicken #StewBeef #Pasta #Casserole #TikTok 
