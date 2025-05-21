@@ -1,6 +1,6 @@
 # Links
 * Original Recipe: [Recipe Link](https://www.allrecipes.com/recipe/20513/classic-waffles/)
-* Image: [Image Link]()
+* Image: [Image Link](https://photos.google.com/share/AF1QipOJE74onaEpmZ7Frb8ECRZy8ZsM2Y4rInvqpsRxMjzu3TZesTQQ5CLolJPADUcQPg/photo/AF1QipPGPsQwsI1NfFJM2dpDT2wODkPesNWo-YVnVXZ8?key=TXRaT2NiWHllSUQxRUFKa0xHMDFrX19IZFkzVER3)
 # Ingredients
 * 2 cups all-purpose flour
 * 1 scoop protein powder (optional)
