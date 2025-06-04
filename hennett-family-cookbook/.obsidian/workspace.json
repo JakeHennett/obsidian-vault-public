@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Best Soft Chocolate Chip Cookies.md",
+                "file": "Auntie's Peach Cobbler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Best Soft Chocolate Chip Cookies"
+              "title": "Auntie's Peach Cobbler"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Soup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,9 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db29b3644155bf3e",
+  "active": "d910d4196e3add5e",
   "lastOpenFiles": [
     "~ Recipe Template.md",
+    "Auntie's Peach Cobbler.md",
     "The Best Soft Chocolate Chip Cookies.md",
     "Classic Waffles.md",
     "DIY Dinosaur Egg Oatmeal.md",
