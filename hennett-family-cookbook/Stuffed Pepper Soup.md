@@ -27,4 +27,4 @@
 8. Add seasonings. Mix and bring heat to low. Close lid with a small gap. Cook for 20 minutes
 9. Mix in rice, close lid and cook until rice is done.
 # Tags
-#Soup #Dessert #OnePotMeal #Easy #Crockpot #GroundBeef #Chicken #StewBeef #Pasta #Casserole #TikTok #Breakfast 
+#Soup  #OnePotMeal #Easy #GroundBeef 
