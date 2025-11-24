@@ -12,8 +12,8 @@
 * 1 teaspoon vanilla extract
 # Directions
 1. Gather all ingredients.
-2. Add milk to a mason jar and butter to a coffee mug. Microwave on 30 second intervals while preparing the dry ingredients. Alternatively, 4 minutes at 50% power.
-3. In a large bowl, mix together flour, baking powder and sugar; set aside. Preheat waffle iron to desired temperature. If using kitchenaid, mixer head at 2 speed.
+2. Add milk to a mason jar and butter to a coffee mug. Microwave on 30 second intervals while preparing the dry ingredients. Alternatively, 5 minutes at 50% power.
+3. In a large bowl, mix together flour, baking powder and sugar; set aside. Preheat waffle iron to desired temperature. If using kitchenaid, scraper head at 2 speed.
 4. Make a well in the flour mixture. Add eggs, milk, butter, and vanilla.
 5. Beat until blended.
 6. Ladle the batter into a preheated waffle iron.
