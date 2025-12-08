@@ -2,12 +2,12 @@
 * Original Recipe: [Recipe Link](https://www.tiktok.com/@gigishomemaking/video/6920407519974214918](https://www.tiktok.com/@gigishomemaking/video/6920407519974214918)
 * Image: [Image Link]()
 # Ingredients
-* 19 oz ground italian sausage
+* 19 oz ground Italian sausage
 * 23.9 oz spaghetti sauce
 * 1 box 32 oz chicken broth
 * 1 box 32 oz beef broth
 * 16 oz box lasagna noodles
-* 1 can 14.5 oz diced italian tomatoes
+* 1 can 14.5 oz diced Italian tomatoes
 * 15 oz Ricotta Cheese
 * 8 oz Italian style blend cheese
 * 1 Cup Heavy Cream
