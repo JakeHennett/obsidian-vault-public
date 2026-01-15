@@ -8,7 +8,13 @@
 
 ## Summary
 
-Software Engineer and manager with more than 12 years’ experience with proprietary products utilized by the healthcare, manufacturing, and financial industries. Extensive background in product design implementation and software product support.
+Software engineer and manager with more than 15 years’ experience with proprietary products utilized by the healthcare, manufacturing, and financial industries. Extensive background in product design implementation and software product development and support. Eager to join or lead a team with passion and enthusiasm.
+
+---
+
+## Skills
+
+JavaScript | Node.js | NestJS | Python | Management | Leadership | Database | PostgreSQL | pgAdmin | Oracle | GitHub | REST API | SOAP API | React | XML | JSON | Okta | Azure | Azure Portal | Azure DevOps | VSCode | Agile | Microservices | Onion Architecture | Mulesoft | Java | Flutter | IBM Series/1 Assembler
 
 ---
 
