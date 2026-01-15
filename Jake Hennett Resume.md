@@ -70,5 +70,5 @@ Minor: Mathematics
 ## Presentations
 
 **Carolina Code Conference** — *August 2024*  
-[The Value of Prototypes (YouTube)](https://youtu.be/HjBgcPWRYT8?si=6gaofjxa5hx3qpxz)
-[Conference Profile](https://blog.carolina.codes/i/144339321/jake-hennett-greenville-sc)
+- [The Value of Prototypes (YouTube)](https://youtu.be/HjBgcPWRYT8?si=6gaofjxa5hx3qpxz)
+- [Conference Profile](https://blog.carolina.codes/i/144339321/jake-hennett-greenville-sc)
