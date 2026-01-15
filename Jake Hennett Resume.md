@@ -1,4 +1,4 @@
-**Address:** 4879 Cross Anchor Rd., Enoree, SC 29335  
+**Address:** Enoree, SC 29335  
 **Phone:** 864-345-9764
 **Email:** [Jake.Hennett@gmail.com](mailto:Jake.Hennett@gmail.com)
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jake-hennett-69024764/)
@@ -6,18 +6,19 @@
 
 ---
 
-## 🧠 Summary
+## Summary
 
 Software Engineer and manager with more than 12 years’ experience with proprietary products utilized by the healthcare, manufacturing, and financial industries. Extensive background in product design implementation and software product support.
 
 ---
 
-## 💼 Job Experience
+## Job Experience
 
 ### Software Engineering Manager — *Lima One Capital*  
-**Greenville, SC** — *September 7, 2021 – Present*
+**Greenville, SC** — *September 7, 2021 – January 15, 2026*
 
 - Leads a team of software engineers and QA technicians  
+- Cross-team collaboration with internal and offshore teams across multiple projects
 - Writes and maintains MuleSoft and NestJS middle-tier APIs for internal/external use  
 - Developed a Pricing Engine SPA for generating loan quotes  
 - Integrated third-party services via RESTful APIs  
@@ -52,7 +53,7 @@ Software Engineer and manager with more than 12 years’ experience with proprie
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Southern New Hampshire University  
 **Master of Science** — *September 2017 - December 2023*  
@@ -66,8 +67,8 @@ Minor: Mathematics
 
 ---
 
-## 🎤 Presentations
+## Presentations
 
 **Carolina Code Conference** — *August 2024*  
-🎥 [The Value of Prototypes (YouTube)](https://youtu.be/HjBgcPWRYT8?si=6gaofjxa5hx3qpxz)  
-📰 [Conference Profile](https://blog.carolina.codes/i/144339321/jake-hennett-greenville-sc)
+[The Value of Prototypes (YouTube)](https://youtu.be/HjBgcPWRYT8?si=6gaofjxa5hx3qpxz)
+[Conference Profile](https://blog.carolina.codes/i/144339321/jake-hennett-greenville-sc)
