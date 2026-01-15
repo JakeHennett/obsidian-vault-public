@@ -1,7 +1,7 @@
 **Address:** Enoree, SC 29335  
-**Phone:** 864-345-9764
-**Email:** [Jake.Hennett@gmail.com](mailto:Jake.Hennett@gmail.com)
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jake-hennett-69024764/)
+**Phone:** 864-345-9764  
+**Email:** [Jake.Hennett@gmail.com](mailto:Jake.Hennett@gmail.com)  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jake-hennett-69024764/)  
 **GitHub:** [GitHub Profile](https://github.com/JakeHennett)
 
 ---
